@@ -1,3 +1,7 @@
 0.0.0.0 log.tailscale.io
 0.0.0.0 detectportal.firefox.com
-0.0.0.0 connectivity-check.ubuntu.com	
+0.0.0.0 connectivity-check.ubuntu.com
+
+# Spam/Malicious
+0.0.0.0 usps.uspsggw.org
+0.0.0.0 uspsggw.org
